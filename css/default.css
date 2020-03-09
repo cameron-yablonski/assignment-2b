@@ -1,0 +1,21 @@
+h1 {
+  font-size: 30px;
+}
+
+p1 {
+  color:red;
+  margin-right: 100px;
+  border: 2px solid blue;
+  background-color: white;
+}
+
+p2 {
+  font-size: 40px;
+  padding: 5px;
+  background-color: green;
+
+}
+
+body {
+  background-color: purple;
+}
